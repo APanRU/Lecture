@@ -113,7 +113,7 @@ int IndexOf(int[] collection, int find)
 
 }
 
-int[] array = new int[10];
+int[] array = new int[2];
 FillArray(array);
 PrintArray(array);
 Console.WriteLine();
